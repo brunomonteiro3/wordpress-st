@@ -1,3 +1,4 @@
 <?php
-    the_component('components/head');
+    the_component('components/head');    
+    echo $args['content'];
 ?>
